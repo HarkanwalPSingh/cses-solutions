@@ -10,6 +10,5 @@ def main():
       print(i)
       break
 
-
 if __name__ == "__main__":
   main()

@@ -32,6 +32,5 @@ def main():
   if not isFound:
     print("NO SOLUTION")
 
-
 if __name__ == "__main__":
   main()
